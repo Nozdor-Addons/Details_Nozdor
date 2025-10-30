@@ -1070,6 +1070,7 @@ do
 		[51271] = 20, -- Unbreakable Armor (DK)
 		-- Druid
 		[62606] = 10, -- Savage Defense proc. (Druid) Tooltip of the original spell doesn't clearly state that this is an absorb, but the buff does.
+		[83198] = 10, -- дру щит Кенария (т7)
 		-- Mage
 		[11426] = 60, -- Ice Barrier (Mage) Rank 1
 		[13031] = 60,
